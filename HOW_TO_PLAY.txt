@@ -1,0 +1,7 @@
+To play this buggy game you only need your SPACE bar to jump.
+
+In each point that you make the speed increses 0.2.
+
+When you make +10 points you won a double jump ( I implement that because of spawn obstacle bug ). 
+
+Your double accumulate so you can cheat a bit when you have much double jumps because you basically fly.
